@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahamodul</h1>
 <h3 align="center">A passionate Software Engineer and Tech Lover.</h3>
 
-- 🔭 I’m currently working on as a Project Manager [A startup called CookingSation](https://www.cookingstation.homes/)
+- 🔭 I’m currently working as a Project Manager for [A startup called CookingSation](https://www.cookingstation.homes/)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning and how to apply this on Computational Biology and Bioinformatic for helping Human welfare.**
 
